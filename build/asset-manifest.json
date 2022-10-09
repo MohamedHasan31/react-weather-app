@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.731d5b06.css",
+    "main.js": "/static/js/main.04251bc5.js",
+    "static/media/sunset wallpaper.jpg": "/static/media/sunset wallpaper.cd9f22a14f3d7c383cc8.jpg",
+    "index.html": "/index.html",
+    "main.731d5b06.css.map": "/static/css/main.731d5b06.css.map",
+    "main.04251bc5.js.map": "/static/js/main.04251bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731d5b06.css",
+    "static/js/main.04251bc5.js"
+  ]
+}
